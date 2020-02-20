@@ -1,0 +1,23 @@
+{
+  "age": 25,
+  "firstname": "Mayank",
+  "address": {
+    "city": "Ghaziabad",
+    "country": "India"
+  },
+  "mail": "xyz@gmail.com",
+  "family": [
+    {
+      "age": 30,
+      "role": "doctor"
+    },
+    {
+      "age": 40,
+      "role": "surgeon"
+    },
+    {
+      "age": 50,
+      "role": "chef"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "age": 22,
+  "firstname": "Manish",
+  "address": {
+    "city": "Noida/Delhi",
+    "country": "India"
+  },
+  "mail": "mainsh@gmail.com"
+}
